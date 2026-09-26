@@ -1,6 +1,6 @@
 # Locked preregistration: Banana Vaccine 2.0, published-design variability study
 
-Locked before any candidate scores, hypothesis tests, or outcome analyses, 2026-09-26 IST. Scope: assess published oral-vaccine antigen studies, with a separate banana-expression subset if a qualifying study exists. This study does not invent, evolve, specify, or optimize new antigen constructs, sequences, epitopes, carriers, expression systems, or experimental protocols. It can identify limits of evidence and broad feature-level improvement directions. ChatGPT review remains stopped until the owner explicitly resumes it. The earlier scaffold's viral-sequence proposal is retired, not inherited as evidence.
+Locked before any candidate scores, hypothesis tests, or outcome analyses, 2026-09-26 IST. Scope: assess published oral-vaccine antigen studies, with a separate banana-expression subset if a qualifying study exists. This study does not invent, evolve, specify, or optimize new antigen constructs, sequences, epitopes, carriers, expression systems, or experimental protocols. It can identify limits of evidence and broad feature-level improvement directions. The owner resumed ChatGPT ideation and judging on 2026-09-26 at 4:11 PM IST; require at least ten substantive documented weakness-and-improvement rounds per project, without treating critique as a result. The earlier scaffold's viral-sequence proposal is retired, not inherited as evidence.
 
 ## Question and falsifiable outcomes
 
