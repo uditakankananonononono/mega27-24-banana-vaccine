@@ -1,16 +1,5 @@
-# MEGA27-24: banana-vaccine
+# MEGA27-24 Banana Vaccine 2.0: published-design dose-variability analysis
 
-Part of the MEGA-27 program, item 24 (edible-vaccine / transgenic-environmental space), lane C.
+Scope accepted in the owner's 2026-09-26 conversation: assess published oral-vaccine antigen and delivery-system studies for robustness to plant-to-plant and digestion-to-digestion variability. Characterize measured stability, degradation, accessibility and immune-response proxies across published candidates; compare prespecified predictors with fair baselines. Explain evidence-backed, broad feature-level improvement directions. This project does **not** invent, evolve, optimize or specify any new antigen, biological construct, sequence or protocol. Banana-specific claims depend on actual qualifying banana data; other plant sources are not banana measurements.
 
-## Scope
-Edible-vaccine antigen conservation and stability analysis across published viral variant sequences. Extends the lane-G epitope-conservation methodology (sequence-property ranking, per-residue conservation mapping, accession-level provenance) to a 120+-accession Coronaviridae panel from NCBI Virus/Protein. Pure analysis of public sequences; no construct design.
-
-## Gates (locked)
-- 40 research/analysis tools genuinely applied (infrastructure never counts)
-- 120+ accession-level datasets, each individually fetched and used; manifest in data/manifest.md
-- 10+ mathematical formulas with derivations in the paper
-- Broken benchmark OR named/quantified/falsifiable discovery
-- Six-point closure: tested code, committed verified results, full paper, usable tool, pushed repo, paper PDF + results in Drive
-
-## Discipline
-Hermetic pytest suite; real public datasets only, no stubs; honest verdicts; negative results preserved. All analyses run over published public data; no wet-lab construct design.
+See [locked preregistration](prereg/2026-09-26-published-design-variability.md) for endpoints, splits, comparators and stop criteria. Starting state: scaffold and preregistration only; no fetched-and-used accession records, applied services, audited derivations, validated benchmark, novelty or qualifying body pages.

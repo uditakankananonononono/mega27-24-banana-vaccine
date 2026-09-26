@@ -1,0 +1,25 @@
+# Locked preregistration: Banana Vaccine 2.0, published-design variability study
+
+Locked before any candidate scores, hypothesis tests, or outcome analyses, 2026-09-26 IST. Scope: assess published oral-vaccine antigen studies, with a separate banana-expression subset if a qualifying study exists. This study does not invent, evolve, specify, or optimize new antigen constructs, sequences, epitopes, carriers, expression systems, or experimental protocols. It can identify limits of evidence and broad feature-level improvement directions. ChatGPT review remains stopped until the owner explicitly resumes it. The earlier scaffold's viral-sequence proposal is retired, not inherited as evidence.
+
+## Question and falsifiable outcomes
+
+Can a public-data model account for plant-to-plant and digestion-to-digestion variability in reported effective intestinal dose, and identify which *reported* design/platform characteristics predict robustness? No clinical protection inference from in-silico scores. Primary outcome is out-of-sample prediction of measured post-digestion intact-antigen fraction where comparable independent study data exist. Secondary outcomes, each separately evaluated: across-batch antigen yield variability; reported luminal delivery/accessibility proxy; published immune-response association (not predicted protection). If direct intact-antigen measurements or between-plant replicates are insufficient, report the primary endpoint unevaluable, not a win.
+
+## Eligible evidence and leakage control
+
+Include peer-reviewed primary experiments with a traceable antigen/platform identity, numerical assay readouts and denominators, measurement timing and uncertainty. Record plant tissue, growth/batch context, administration context, digestion method and sampling when published. Non-plant oral platforms are contextual comparators, not exchangeable with banana. Separate formulation, antigen identity, model organism and assay method. One underlying experiment counted once despite registry/republished mirrors; each accession only earns data credit when its payload was individually fetched and actually analyzed. No fabricated banana data. Extract published characterization and outcome data, not synthetic antigen candidates or actionable construction details.
+
+## Prespecified analysis
+
+Build a provenance and bias table first. Keep held-out publications, antigen families and assay protocols separate to prevent near-duplicate leakage; use grouped, nested validation for model choices. Estimate log-scale observed variability, where measurements permit, using a hierarchical model with study, batch and digestion-condition components. Report sample counts, missingness and uncertainty; do not estimate an unmeasured biological component as zero. Summarize published structure/physicochemical annotations only as observational covariates. Predicted immune recognition is an exploratory proxy compared with published immune readouts, not a safety or efficacy prediction. Unavailable scoring tools remain missing covariates, not excuses to substitute invented scores.
+
+Compare against intercept-only, source-study median and simple published-feature baselines on the same held-out split and same available inputs. The stronger eligible baseline is the primary comparator. Primary metric: held-out absolute error on measured intact fraction, with grouped bootstrap interval and coverage of prediction intervals. Secondary metric: robustness/rank concordance of observed dose-survival across measured conditions, reported with confidence intervals and missingness. No benchmark win without matched inputs, pre-registered splits, independent testing and quantified improvement. If absent, make an honest-negative result.
+
+## Improvement analysis without design instructions
+
+Report broad feature-level associations and limitations: where current evidence points to inconsistent yield, degradation or transport, and which measurement or quality-control standard would reduce uncertainty. Avoid recommending particular mutations, sequences, epitopes, expression recipes, delivery constructs or optimization steps. Causal wording requires controlled evidence; observational associations remain hypotheses. A licensed lab can pursue any new design outside this project.
+
+## Gates and publication discipline
+
+Independent project floors: 40 distinct research services genuinely used in the analysis; 120 independently accessioned records each individually fetched and used; 10 independently audited mathematical derivations; tested usable tool with fair win over strongest comparator or matched accuracy plus measured benefit; genuine novelty, not a renamed pipeline; 50+ rendered pages of substantive text body alone, excluding headings, appendices, references, figures and diagrams. Maintain an honest-negative register. No cross-project credit, no inference of gate crossing from this preregistration. Paper and results must be inspected and delivered when complete.
