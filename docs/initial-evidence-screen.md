@@ -1,0 +1,12 @@
+# Banana Vaccine 2.0: initial published-evidence eligibility screen, 2026-09-27
+
+These are research leads, not proof that the original candidate-design request can be fulfilled. The accepted scope is published-design variability and robustness analysis, not new antigen engineering.
+
+| Source | System and measurable lead | Use/limit |
+|---|---|---|
+| [Human edible hepatitis-B trial, PMC549291](https://pmc.ncbi.nlm.nih.gov/articles/PMC549291/) | Oral HBsAg in potatoes, previously vaccinated people; article reports vaccine antigen mass concentration and immunogenicity outcomes. | Not banana and not a new construct. Different prior-immunity context from naive vaccine efficacy; inspect full denominators/dose variation before modeling. |
+| [Sheep plant-tissue/formulation experiment, PLOS ONE 2012](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0052907) | Model plant-made LTB antigen and oral immune readouts across tissue/formulation conditions. | Animal platform, not directly comparable to human protection or banana fruit. Distinguish mass dose from survival to intestine. |
+| [MucoRice-CTB seed-bank comparison, PMC7814724](https://pmc.ncbi.nlm.nih.gov/articles/PMC7814724/) | Published rice seed-bank stability/proteomic context with three samples per bank. | Rice, not banana; does not supply paired digestion-to-digestion effective-dose measurements. Another lane is studying its identity separately; this project's gate cannot borrow that lane's counts. |
+| [Published transgenic banana oral immunogenicity report, DOI 10.1111/pbi.12015](https://onlinelibrary.wiley.com/doi/10.1111/pbi.12015) | Banana-fruit platform lead on a porcine viral antigen. | Viral-specific content could trip the prior policy block; do not parse design, sequence or construct details. Eligibility for numeric fruit-to-fruit dose and digestion outcomes unverified. |
+
+No qualifying matched banana fruit-to-fruit AND digestion-to-digestion dataset has been verified. The primary endpoint in `prereg/2026-09-26-published-design-variability.md` may be unevaluable. Avoid pooling unlike antigens, species, and assays. A tractable first deliverable is a reproducible extraction of published dose/retention measurements with uncertainty and a per-study comparability matrix, then a genuinely held-out predictor only if measurements are commensurate. This screen is not a biology result, tool benchmark, novel finding or page-floor credit. Full failures stay in the repo; a later paper should give them a concise, honest limitations treatment.
